@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="image" size="250.000000 444.444458" />
+    <ImageTarget name="VideoImage" size="250.000000 333.333344" />
+    <ImageTarget name="moving" size="250.000000 167.361115" />
+    <ImageTarget name="karekodDersDeneme" size="250.000000 250.000000" />
+    <ImageTarget name="battle" size="250.000000 166.666672" />
+    <ImageTarget name="3scene" size="250.000000 250.000000" />
+  </Tracking>
+</QCARConfig>
